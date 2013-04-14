@@ -10,11 +10,12 @@
 */
 
 body {
-	background: #fff;
+	background-image:"images/background.png";
 	font-family: Georgia, Times New Roman, Times, serif;
 	font-weight: bold;
 	font-size: 30px;
 	text-align: center;
+	
 }
 
 h1 {
@@ -118,7 +119,7 @@ code {
 	margin: 0;
 	font-size: 14px;
 	font-style: italic;
-	background-color: #69697A;
+	
 	text-shadow: none;
 	text-align: left;
 	padding: 3px 10px;
